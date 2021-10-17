@@ -16,4 +16,7 @@ Project phases:
     -Different models are built and compared with evaluation metrics to identify the suitable model.
 3. MLOPS:
     -Created project template using cookie cutter.
+    -Used dvc to version control the data in gdrive.
+    -Used GitHub to version control the code.
+    
 
